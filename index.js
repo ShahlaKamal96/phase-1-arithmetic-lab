@@ -11,4 +11,3 @@ let num4 = 8;
 let mod = num3 % num4;
 
 let max = Math.max(1,3,5,20,10,9);
-console.log(max);
